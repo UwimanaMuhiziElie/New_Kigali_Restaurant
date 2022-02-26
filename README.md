@@ -8,7 +8,7 @@ About Us:
 -The New_Kigali_Restaurant is one of the best newly opened restaurants in My Rwanda (not real). Our unique international cuisine that incorporates local, organic ingredients. Our customers especially enjoy dining on our outdoor terrace with an excellent scenic view of Kigali hills. . Lunch service and daytime conferences during weekdays may be arranged with advanced reservations, you're all most welcome.
 
 > Purpose:
-- The purpose of doing this, was to practice the Advanced css called Sass and SCSS.
+- The purpose of doing this, was to practice the Advanced and framework of css called Sass and SCSS.
 
 #### UI
  - Navigate to html/index.html file and right click and select  `OPEN WITH LIVE SERVER`
